@@ -31,3 +31,10 @@ router.get("/", protect, async (req,res)=>{
 });
 ```
 
+# Postman Picture for post using ref of user and get by using populate from post populte('user'):-
+![Screenshot (283)](https://user-images.githubusercontent.com/80479635/155104164-624365cd-92fa-486c-84d0-abff64de905d.png)
+
+![Screenshot (284)](https://user-images.githubusercontent.com/80479635/155104183-ec82c44d-938b-460b-9404-0ac32eb185cd.png)
+
+
+
